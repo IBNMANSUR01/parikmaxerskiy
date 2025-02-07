@@ -1,0 +1,29 @@
+.body {
+    width: 400px;
+    margin: 0;
+}
+.header {
+    width: 400px;
+}
+.forms1 {
+ 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    
+}
+.btn-book {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-book:hover {
+    background-color: #45a049;
+}
